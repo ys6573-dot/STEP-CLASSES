@@ -1,1 +1,1 @@
-SeatDuplicationChecker
+TrafficSignalAnalyzer
