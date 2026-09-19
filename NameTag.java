@@ -14,7 +14,7 @@ public class NameTag {
     }
 
     public static void main(String[] args) {
-        NameTag tag = new NameTag("Maria Gomez");
+        NameTag tag = new NameTag("Yashvini Shekhawat");
         System.out.println("Nickname: " + tag.getNickname());
     }
 }
